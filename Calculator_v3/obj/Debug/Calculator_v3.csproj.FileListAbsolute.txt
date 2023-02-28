@@ -1,0 +1,8 @@
+\\Mac\Home\Desktop\Project_C#\Calcualtor_v3\Calculator_v3\bin\Debug\Calculator_v3.exe.config
+\\Mac\Home\Desktop\Project_C#\Calcualtor_v3\Calculator_v3\bin\Debug\Calculator_v3.exe
+\\Mac\Home\Desktop\Project_C#\Calcualtor_v3\Calculator_v3\bin\Debug\Calculator_v3.pdb
+\\Mac\Home\Desktop\Project_C#\Calcualtor_v3\Calculator_v3\obj\Debug\Calculator_v3.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Project_C#\Calcualtor_v3\Calculator_v3\obj\Debug\Calculator_v3.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\Project_C#\Calcualtor_v3\Calculator_v3\obj\Debug\Calculator_v3.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Project_C#\Calcualtor_v3\Calculator_v3\obj\Debug\Calculator_v3.exe
+\\Mac\Home\Desktop\Project_C#\Calcualtor_v3\Calculator_v3\obj\Debug\Calculator_v3.pdb
